@@ -2,7 +2,7 @@
 
 ### Hi there! 👋 This is my profile!
 
-- 🌱 I’m currently learning learning front-end and back-end technologies e.g. HTML5, CSS3, JS, JAVA, SPRING. But, focused on front-end and java
+- 🌱 I’m currently learning front-end and back-end technologies e.g. HTML5, CSS3, JS, Java, Spring. But, focused on front-end and Java.
 - 👯 I am looking to collaborate in development teams, in order to gain experience and learning.
 - 📫 How to reach me: links below! ⬇️
 
